@@ -1,0 +1,42 @@
+img {
+	width: 380px;
+	height: 380px;
+	margin: 20px 15px 20px 15px;
+}
+
+body{
+	background-color: black;
+}
+
+div {
+	text-align: center;
+	padding: 10px 30px 10px 30px;
+}
+
+h1 {
+	width: 155px;
+	margin-left: 50px;
+	font-family: Roboto;
+	color: white;
+	border-bottom: 4px solid white;
+}
+
+ul {
+	list-style: none;
+}
+
+.soundcloud {
+
+}
+
+.facebook {
+
+}
+
+.twitter {
+
+}
+
+.insta {
+
+}
